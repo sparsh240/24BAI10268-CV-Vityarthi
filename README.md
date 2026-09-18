@@ -1,4 +1,4 @@
-# Vityarthi Shape Detection Project
+# Shape Detection Project
 
 ## Overview
 
